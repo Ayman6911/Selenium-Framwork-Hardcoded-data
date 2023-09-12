@@ -1,0 +1,22 @@
+{
+  "URL" : "https://www.nopcommerce.com/en ",
+  "login" : {
+    "validCredentials" : {
+      "userName" : "Ayman" ,
+      "password" : "12345"
+    },
+    "InvalidCredentials" : {
+      "InvalidUserName" : {
+        "userName" : "hani" ,
+        "password" : "12345"
+      },
+      "InvalidPassword" : {
+        "userName" : "Ayman" ,
+        "password" : "12"
+
+      }
+    }
+
+  }
+
+}
